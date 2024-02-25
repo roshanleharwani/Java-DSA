@@ -1,0 +1,280 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "RainWater",
+      "request": "launch",
+      "mainClass": "Array.RainWater",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "MaxProfit",
+      "request": "launch",
+      "mainClass": "Array.MaxProfit",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "FrequenciedOfElements",
+      "request": "launch",
+      "mainClass": "Array.FrequenciedOfElements",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "MaxDifferenceInArray",
+      "request": "launch",
+      "mainClass": "Array.MaxDifferenceInArray",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "LeadersOfTheArray",
+      "request": "launch",
+      "mainClass": "Array.LeadersOfTheArray",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Aarraylist",
+      "request": "launch",
+      "mainClass": "Array.Aarraylist",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "ArraySortedOrNot",
+      "request": "launch",
+      "mainClass": "Array.ArraySortedOrNot",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateElement",
+      "request": "launch",
+      "mainClass": "Array.DuplicateElement",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "LargestElement",
+      "request": "launch",
+      "mainClass": "Array.LargestElement",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "LeftRotateOfArrayDTimes",
+      "request": "launch",
+      "mainClass": "Array.LeftRotateOfArrayDTimes",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "LeftRotationOfArray",
+      "request": "launch",
+      "mainClass": "Array.LeftRotationOfArray",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "MoveZerosToEnd",
+      "request": "launch",
+      "mainClass": "Array.MoveZerosToEnd",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Operation",
+      "request": "launch",
+      "mainClass": "Array.Operation",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "ReversingArray",
+      "request": "launch",
+      "mainClass": "Array.ReversingArray",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargest",
+      "request": "launch",
+      "mainClass": "Array.SecondLargest",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "ComputingPower",
+      "request": "launch",
+      "mainClass": "ComputingPower",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Countdigits",
+      "request": "launch",
+      "mainClass": "Countdigits",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Divisors",
+      "request": "launch",
+      "mainClass": "Divisors",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Facrtorial",
+      "request": "launch",
+      "mainClass": "Facrtorial",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Gcd",
+      "request": "launch",
+      "mainClass": "Gcd",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Isprime",
+      "request": "launch",
+      "mainClass": "Isprime",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Lcm",
+      "request": "launch",
+      "mainClass": "Lcm",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Pallindromeornot",
+      "request": "launch",
+      "mainClass": "Pallindromeornot",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Primefactors",
+      "request": "launch",
+      "mainClass": "Primefactors",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Primenumber",
+      "request": "launch",
+      "mainClass": "Primenumber",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Recursion.Factorial",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Fibnoachi",
+      "request": "launch",
+      "mainClass": "Recursion.Fibnoachi",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "IsPalindrome",
+      "request": "launch",
+      "mainClass": "Recursion.IsPalindrome",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "JosephusProblem",
+      "request": "launch",
+      "mainClass": "Recursion.JosephusProblem",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "MaxRopeCut",
+      "request": "launch",
+      "mainClass": "Recursion.MaxRopeCut",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Nto1",
+      "request": "launch",
+      "mainClass": "Recursion.Nto1",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Recursion.Solution",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "SubSets",
+      "request": "launch",
+      "mainClass": "Recursion.SubSets",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "SumOfDigit",
+      "request": "launch",
+      "mainClass": "Recursion.SumOfDigit",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "SumOfNnatural",
+      "request": "launch",
+      "mainClass": "Recursion.SumOfNnatural",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Sumofnaturalnumber",
+      "request": "launch",
+      "mainClass": "Sumofnaturalnumber",
+      "projectName": "DSA_79061d18"
+    },
+    {
+      "type": "java",
+      "name": "Trailingzeros",
+      "request": "launch",
+      "mainClass": "Trailingzeros",
+      "projectName": "DSA_79061d18"
+    }
+  ]
+}
