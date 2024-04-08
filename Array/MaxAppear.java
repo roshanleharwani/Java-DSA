@@ -1,5 +1,7 @@
 package Array;
 
+import java.util.Arrays;
+
 public class MaxAppear {
     public static void main(String[] args) {
         int[] l = {1,2,4};
@@ -8,18 +10,15 @@ public class MaxAppear {
         }
     static int MaxmiumAppearing(int[] left, int[] right,int n){
         int[] freq = new int[100];
-        for(int i = 0; i<n;i++){
-            for(int j = left[i];j<=right[i];j++){
-                freq[j] += 1;
-            }
+        for(int i = 0;i<n;i++ ){
+            freq[left[i]] = 1;
+            freq[right[i]]  = 1;
         }
-        int res = 0;
-        for(int i =1;i<100;i++){
-            if (freq[i]>freq[res]){
-                res = i;
-            }
+        for(int i = 1;i<100;i++){
+            freq[i] += freq[i-1];
         }
-        return res;
+        System.out.println(Arrays.toString(freq));
+        return 0;
     }
 }
 
